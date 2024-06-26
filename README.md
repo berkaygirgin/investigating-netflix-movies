@@ -1,3 +1,5 @@
+![netflix_logo](netflix_logo.png)
+
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
 I'll delve into Netflix data and perform exploratory data analysis.
